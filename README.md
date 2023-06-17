@@ -1,4 +1,4 @@
-### Olá me chamo Yohran! 👋
+### Hi my name is Yohran! 👋
 
 <div>
   <a href="https://twitter.com/YohranK">

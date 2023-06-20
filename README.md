@@ -1,7 +1,6 @@
 ### Hi my name is Yohran! 👋
 
 <div>
-  <a href="https://twitter.com/YohranK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohran1&show_icons=true&count_private=true&hide_border=true&title_color=ADD8E6&icon_color=ADD8E6&text_color=c9d1d9&bg_color=0d1117" alt="Yohran Kallahari github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohran1&layout=compact&langs_count=16&theme=dark" />
 </div>
